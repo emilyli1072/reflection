@@ -1,5 +1,7 @@
 Reflections 
 
-git clone https//some repo url
-git add "file name"
-git commit -m "commit message"
+In today's class, we learned what is AI. I learned that there are two dimensions to define Artificial Intelligence, thinking and behaviors, and humanly and rationally.
+Then we discussed the properties of a rational agent - preforms actions to achieve a given goal in an environment based on what it perceieves in 
+an optimal manner. We also looked at the history of the relatively new field of Artificial Intelligence, from the birth of Connectionism and Good Old Fashioned AI,
+to the AI winter because researchers were stuck to using logical reasoning to develop AI. One thing that I found fascinating was how quickly the AI was able to outsmart
+humans in playing games. 
