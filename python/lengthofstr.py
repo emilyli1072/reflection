@@ -1,4 +1,5 @@
 def strlencounter(astring):
     return (len(astring))
-word = input()
-print(strlencounter(word))
+if __name__=="__main__":
+    word = input()
+    print(strlencounter(word))
